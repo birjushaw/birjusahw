@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Birju Sahw</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="![image](https://user-images.githubusercontent.com/123962534/231559320-825e977b-4adf-4e99-9d53-c89287450fcd.png)
+<img align="right" alt="coding" width="400" src="[[![image](https://user-images.githubusercontent.com/123962534/231559450-113fa408-7629-4e01-86e3-ae34c1483e73.png)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Famp%2Fpin%2Flottieanimationchainstarters-in-2021--59813501292017265%2F&psig=AOvVaw3Jnj4jB5CWU1-vM_uVf2oe&ust=1681412127866000&source=images&cd=vfe&ved=0CBEQjRxqGAoTCNjQqLWCpf4CFQAAAAAdAAAAABCZAQ)](https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif)
 " >
 
 - 🌱 I’m currently learning **JavaScript**
