@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Birju Sahw</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="" >
+<img align="right" alt="coding" width="400" src="![image](https://user-images.githubusercontent.com/123962534/231559320-825e977b-4adf-4e99-9d53-c89287450fcd.png)
+" >
 
 - 🌱 I’m currently learning **JavaScript**
 
